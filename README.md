@@ -1,3 +1,3 @@
 # demo_git
-une demonstration simple
+une demonstration simple "depuis machine"
 ajout des informations
